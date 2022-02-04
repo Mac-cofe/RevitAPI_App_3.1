@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RevitAddins>
+	<AddIn Type="Command">
+		<Assembly>C:\RevitAPITraining\RevitAPI_App_3.1.dll</Assembly>
+		<AddInId>8EBFD3E6-F74B-4581-A7AE-64770DC97433</AddInId>
+		<FullClassName>RevitAPI_App_3.1.Main</FullClassName>
+		<VendorIT>ADSK</VendorIT>
+		<Text>Объем выбранных стен</Text>
+	</AddIn>
+</RevitAddins>
